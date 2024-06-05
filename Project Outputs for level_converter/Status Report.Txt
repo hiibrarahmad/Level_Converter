@@ -1,0 +1,14 @@
+Source PCB Design PCB2.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [level_converter.PrjPcb]
+   Generated File[PCB2.TXT]
+   Generated File[PCB2.LDP]
+   Generated File[PCB2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:31:34 PM On 4/26/2024
